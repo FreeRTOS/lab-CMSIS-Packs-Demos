@@ -291,4 +291,5 @@ void vLoggingPrintf( const char * pcFormat, ... );
 #define configHEAP_REGION0_ADDR                 0
 #define configHEAP_REGION0_SIZE                 0x1E000
 
+#define configENABLE_MVE 1
 #endif /* FREERTOS_CONFIG_H */

@@ -4,7 +4,7 @@ solution:
   packs:
     - pack: ARM::CMSIS
     - pack: ARM::CMSIS-Driver
-    - pack: ARM::CMSIS-FreeRTOS@10.4.6
+    - pack: ARM::CMSIS-FreeRTOS@10.5.1
     - pack: ARM::mbedTLS@1.7.0
     - pack: AWS::backoffAlgorithm@1.0.0-Beta
     - pack: AWS::coreMQTT@1.1.0-Beta
